@@ -7,7 +7,7 @@
 
 <script>
   import axios from 'axios'
-  var datatest = 'test'
+  var datatest = 'cabra'
 
   export default {
     mounted: function() {
